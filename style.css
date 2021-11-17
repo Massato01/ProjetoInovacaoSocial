@@ -15,7 +15,7 @@
 }
 
 section.main {
-    background-image: url('/Sources/header-background-01.png');
+    background-image: url('header-background-01.png');
     background-position: center;
     background-size: cover;
     min-height: 700px;
@@ -141,7 +141,7 @@ section.exemplos-ods > .center > p {
 }
 
 section.cta {
-    background-image: url('/Sources/banner.jpg');
+    background-image: url('banner.jpg');
     background-size: cover;
     /* background-position: center; */
     color: white;
