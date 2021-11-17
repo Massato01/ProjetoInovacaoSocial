@@ -102,7 +102,7 @@ section.exemplos-ods > .center {
 }
 
 section.exemplos-ods > .center > h2 {
-    font-size: 64px;
+    font-size: 50px;
     text-align: center;
     width: 100%;
 }
@@ -135,7 +135,7 @@ section.exemplos-ods > .center > p {
 }
 
 .box-ods p {
-    font-size: 13px;
+    font-size: 16px;
     color: #7E92AC;
     margin-bottom: 20px;
 }
