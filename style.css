@@ -141,6 +141,17 @@ section.exemplos-ods > .center > p {
 }
 
 section.cta {
+    background-color: rgb(231, 241, 248);
+    color: white;
+    padding: 20px;
+    min-height: 200px;
+    text-align: center;
+    border-radius: 5px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.center-cta {
     background-image: url('banner.jpg');
     background-size: cover;
     /* background-position: center; */
@@ -148,7 +159,10 @@ section.cta {
     padding: 50px;
     min-height: 200px;
     text-align: center;
+    border-radius: 5px;
 }
+
+section.cta img { width: 400px; }
 
 section.cta h2,
 section.cta h4 {
@@ -156,8 +170,16 @@ section.cta h4 {
     margin-top: 25px;
 }
 
+section.cta h1 {
+    font-size: 30px;
+}
+
 section.cta h2 {
     font-size: 40px;
+}
+
+section.cta h4 {
+    font-size: 22px;
 }
 
 section.cta a {
