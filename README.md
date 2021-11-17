@@ -1,1 +1,0 @@
-# Projeto-Sociologia-correto
